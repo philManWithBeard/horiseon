@@ -2,7 +2,7 @@
 
 ## Description 
 
-An accessible webpage for the Horiseon marketing Companyß
+An accessible webpage for the Horiseon marketing Company.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Delete page-preview.png and README.md prior to live deployment.
 Simple page, no usage section required. Page should render as follows:
 
 ```md
-![full page screenshot of Horiseon webpage](page-preview.png)
+![full page screenshot of Horiseon webpage](./page-preview.png)
 ```
 
 Live preview available at: https://philmanwithbeard.github.io/horiseon/
